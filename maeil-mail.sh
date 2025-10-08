@@ -37,11 +37,8 @@ cat <<TEMPLATE > "$OUTPUT_FILE"
 
 ## 요약
 
-### 1. 정의
-
 ## 발화
 
-## 추가 학습 자료
 TEMPLATE
 
 echo "✅ 파일 생성 완료: $OUTPUT_FILE"
