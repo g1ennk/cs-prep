@@ -37,6 +37,10 @@ cat <<TEMPLATE > "$OUTPUT_FILE"
 
 ## 요약
 
+### 매일메일
+
+### LLM
+
 ## 발화
 
 TEMPLATE
